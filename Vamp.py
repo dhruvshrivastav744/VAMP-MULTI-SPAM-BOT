@@ -1434,7 +1434,11 @@ async def ping(e):
         ms = (end-start).microseconds / 1000
         await event.edit(f"""
     ✰𝐕𝐀𝐌𝐏 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓✰
-     ＰＯＮＧ!\n`{ms}` 𝗺𝘀"
+   ╔═╗╔═╗╔═╦╗╔══╗
+   ║╬║║║║║║║║║╔═╣
+   ║╔╝║║║║║║║║╚╗║
+   ╚╝─╚═╝╚╩═╝╚══╝!\n`{ms}` 𝗺𝘀"
+
 
 """
 )
@@ -1749,7 +1753,7 @@ else:
     try:
         yaa.run_until_disconnected()
     except Exception as e:
-        pass
+        pass.
     try:
         dav.run_until_disconnected()
     except Exception as e:
@@ -1761,4 +1765,4 @@ else:
     try:
         put.run_until_disconnected()
     except Exception as e:
-        pass.
+        pass
