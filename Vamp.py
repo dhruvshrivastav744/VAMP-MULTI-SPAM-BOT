@@ -1753,7 +1753,7 @@ else:
     try:
         yaa.run_until_disconnected()
     except Exception as e:
-        pass.
+        pass
     try:
         dav.run_until_disconnected()
     except Exception as e:
