@@ -11,7 +11,7 @@
 
 
    - Generate on Repl [![Run on Repl.it](https://repl.it/badge/github/D15H4NT0P/VAMP-SPAM-BOT)](https://replit.com/@D15H4NT0P/VAMP-SPAM-BOT#main.py)
-## 🚀 Deploy on Heroku 
+## 🔰 Deploy on Heroku 🔰
 
 [![Deploy](https://telegra.ph/file/4a25eb60ee6398bb830f1.jpg)](https://dashboard.heroku.com/new?template=https://github.com/D15H4NT0P/VAMP-MULTI-SPAM-BOT)
 
