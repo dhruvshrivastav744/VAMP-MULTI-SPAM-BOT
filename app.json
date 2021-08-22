@@ -1,7 +1,7 @@
 {
   "name": "VAMP MULTI SPAM BOT",
   "description": "A POWERFULL AND FAST SPAM BOT MADE BY @D15H4NT0P.",
-  "logo": "https://telegra.ph/file/e109980c513e72c720563.jpg",
+  "logo": "https://telegra.ph/file/ec7791ee232a9575b1427.jpg",
   "keywords": [
     "spambot",
     "telegram",
@@ -135,13 +135,13 @@
       },
       "USERNAME": {
         "description": "Leave As It Is",
-        "value": "#Vamp Op",
+        "value": "Vamp Op",
         "required": false
    
      },
       "ALIVE_NAME": {
         "description": "Leave As It Is",
-        "value": "#Vamp User",
+        "value": "Vamp User",
         "required": false
       },
       "API_ID": {
