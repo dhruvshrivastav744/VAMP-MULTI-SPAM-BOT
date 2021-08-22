@@ -1433,18 +1433,13 @@ async def ping(e):
         end = datetime.now()
         ms = (end-start).microseconds / 1000
         await event.edit(f"""
-    ||•𝗖𝗢𝗣𝗬𝗖𝗔𝗧 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧•||
-╔═╗╔═╗╔═╦╗╔══╗
-║╬║║║║║║║║║╔═╣
-║╔╝║║║║║║║║╚╗║
-╚╝─╚═╝╚╩═╝╚══╝!\n`{ms}` 𝗺𝘀"
-
+    ✰𝐕𝐀𝐌𝐏 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓✰
+     ＰＯＮＧ!\n`{ms}` 𝗺𝘀"
 
 """
 )
         
         
-
 @idk.on(events.NewMessage(incoming=True, pattern=r"\.restart"))
 @ydk.on(events.NewMessage(incoming=True, pattern=r"\.restart"))
 @wdk.on(events.NewMessage(incoming=True, pattern=r"\.restart"))
@@ -1766,4 +1761,4 @@ else:
     try:
         put.run_until_disconnected()
     except Exception as e:
-        pass
+        pass.
