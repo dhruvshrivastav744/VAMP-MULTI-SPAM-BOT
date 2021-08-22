@@ -38,11 +38,11 @@
 
 `  
 ## Support Group
-  - Telegram Group [『Vamp Group』 ](https://t.me/VAMPIRES_OFFICIAL)
+  - Telegram Group [ •Vamp Group• ](https://t.me/VAMPIRES_OFFICIAL)
    
-- Support Group [ Helping Group ](https://t.me/VAMPBOT_SUPPORT)
+- Support Group [ HELPING GROUP ](https://t.me/VAMPBOT_SUPPORT)
    
-- Support Channel [ VAMP ](https://t.me/VAMPBOT_OFFICIAL)
+- Support Channel [ VAMP TEAM ](https://t.me/VAMPBOT_OFFICIAL)
 ## Credits
    - Thanks to [Yukki Team](https://t.me/officialyukki).
 
