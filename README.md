@@ -10,7 +10,7 @@
  Requirement of API ID and API HASH - 
 
 
-   - Generate on Repl [![Run on Repl.it](https://repl.it/badge/github/D15H4NT0P/VAMP-MULTI-SPAM-BOT)](https://replit.com/@D15H4NT0P/VAMP-MULTI-SPAM-BOT#main.py)
+   - Generate on Repl [![Run on Repl.it](https://repl.it/badge/github/D15H4NT0P/VAMP-SPAM-BOT)](https://replit.com/@D15H4NT0P/VAMP-SPAM-BOT#main.py)
 ## 🚀 Deploy on Heroku 
 
 [![Deploy](https://telegra.ph/file/4a25eb60ee6398bb830f1.jpg)](https://dashboard.heroku.com/new?template=https://github.com/D15H4NT0P/VAMP-MULTI-SPAM-BOT)
@@ -38,11 +38,11 @@
 
 `  
 ## Support Group
-  - Telegram Group [『Vamp Group』 ](https://t.me/Lovers_Match)
+  - Telegram Group [『Vamp Group』 ](https://t.me/VAMPIRES_OFFICIAL)
    
-- Support Group [ Helping Group ](https://t.me/Copycat_Spam_Bot)
+- Support Group [ Helping Group ](https://t.me/VAMPBOT_SUPPORT)
    
-- Support Channel [ VAMP ](https://t.me/Copycat_Spam)
+- Support Channel [ VAMP ](https://t.me/VAMPBOT_OFFICIAL)
 ## Credits
    - Thanks to [Yukki Team](https://t.me/officialyukki).
 
