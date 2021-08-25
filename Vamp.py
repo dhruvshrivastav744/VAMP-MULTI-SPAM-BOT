@@ -1766,4 +1766,4 @@ else:
     try:
         put.run_until_disconnected()
     except Exception as e:
-        pass.
+        pass
