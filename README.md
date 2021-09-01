@@ -5,7 +5,7 @@
 </p>
 
 
-## 🔥sᴛʀɪɴɢ sᴇssɪᴏɴ🔥
+## 🧛‍♂️ sᴛʀɪɴɢ sᴇssɪᴏɴ 🧛‍♂️
 
  Requirement of API ID and API HASH - 
 
@@ -31,6 +31,10 @@
    - SPAM SPEED OP 
 
    - REPLYRAID , RAID PLUGIN 
+   
+   - ALL INVITE 
+   
+   - FAST DEPLOY
 
 
 
